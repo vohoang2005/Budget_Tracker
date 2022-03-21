@@ -33,7 +33,9 @@ THEN the deposits or expenses added while they were offline are added to their t
 3. Type: npm start
 4. Open Browser to: http://localhost:3001/
 
+## Picture to View
 
+![Budget](https://user-images.githubusercontent.com/37889335/159207940-cfbba7f1-2416-45c1-906e-d276a8aefbcf.PNG)
 
 
 Created By: Chuong Vo
